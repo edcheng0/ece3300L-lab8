@@ -29,4 +29,4 @@ Simulation waveform:
 Schematic:
 ![Top schematic](screenshots/top_schematic.png)
 Demo video:
-https://github.com/user-attachments/assets/c62f9b89-0d17-410e-92c2-9205dcefd015 
+[![Demo Video](videos/ECE3300L-lab8.mp4)](https://github.com/user-attachments/assets/c62f9b89-0d17-410e-92c2-9205dcefd015)
